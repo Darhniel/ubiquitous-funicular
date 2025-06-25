@@ -2,7 +2,7 @@
 import Cookies from 'js-cookie';
 import { FormDataType } from '../types';
 
-const API_BASE = 'https://saturndigitalbackend.onrender.com/api/users';
+const API_BASE = 'https://samplebackend.com/api/users';
 const REQUEST_TIMEOUT = 10000;
 
 export const ApiService = {
